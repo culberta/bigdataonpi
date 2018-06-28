@@ -35,3 +35,5 @@
      ```
 
 * Using Git notes
+
+  Some words from Allison
